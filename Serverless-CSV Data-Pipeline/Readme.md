@@ -16,6 +16,11 @@ The pipeline automatically processes CSV files uploaded to an S3 bucket, cleans 
 * **Security & Best Practices:** Implement secure access using IAM Roles and Policies, and follow best practices for serverless architecture.
 * **Low-Cost & Reusable:** Design the pipeline to be cost-efficient by leveraging serverless components and make it adaptable for different CSV datasets.
 
+**Diagram:**
+
+![Architecture Diagram](./Diagram-Data-Pipeline.png)
+
+
 ## ⚙️ Architecture
 
 The data flows through the following AWS services:
