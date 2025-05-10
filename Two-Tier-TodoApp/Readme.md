@@ -15,7 +15,7 @@ The application follows a classic two-tier architecture:
 
 **Diagram:**
 
-![Architecture Diagram](./Diagram-TodoApp.png)`)*
+![Architecture Diagram](./Diagram-TodoApp.png)
 
 **Traffic Flow:**
 User Request -> Internet -> Application Load Balancer (Public Subnets) -> EC2 Instances (Node.js App in Public Subnets) -> RDS MySQL Instance (Private Subnets)
