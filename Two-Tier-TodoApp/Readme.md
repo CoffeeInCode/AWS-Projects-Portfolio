@@ -5,6 +5,10 @@
 This project demonstrates the deployment of a scalable and resilient two-tier web application on Amazon Web Services (AWS). The application is a simple To-Do List manager, built with Node.js and Express.js for the backend, and utilizing a MySQL database hosted on Amazon RDS. The primary goal was to implement a robust cloud architecture focusing on high availability, security, and best practices for cloud deployment.
 
 ---
+### 🌐 Live Demo
+
+You can check out the **To-Do Web Application** [here](https://todo.coffeeincode.click).  
+> **Note:** The web page code and design were created by **Gemini**.
 
 ## Architecture
 
