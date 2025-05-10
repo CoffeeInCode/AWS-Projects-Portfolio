@@ -6,6 +6,14 @@ This project is a serverless web application built on Amazon Web Services (AWS) 
 
 This project was built as a portfolio piece to showcase skills in cloud computing, serverless development, and full-stack application design.
 
+
+### 🌐 Live Demo
+
+You can check out the **Event Announcement Website** [here](https://event.coffeeincode.click).  
+> **Note:** The web page code and design were created by **Gemini**.
+ 
+
+
 ## ✨ Features
 
 * **View Events:** Users can see a list of upcoming events displayed on the frontend.
